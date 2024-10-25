@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import url("https://fonts.cdnfonts.com/css/gilroy-bold"); */
+
+::selection {
+  color: rgb(232, 145, 47);
+}
