@@ -23,6 +23,12 @@ export default function Foreground() {
       close: true,
       tag: { isOpen: true, tagTitle: "Upload", tagColor: "green" },
     },
+    {
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      filesize: ".5mb",
+      close: true,
+      tag: { isOpen: true, tagTitle: "Upload", tagColor: "blue" },
+    },
   ];
   useState();
   return (
